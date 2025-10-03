@@ -66,3 +66,6 @@
 <img src="https://imgur.com/Zg51aFW.jpg" height="80%" width="80%" alt="Fifteenth attempt"/>
 
 ---
+
+📄 License
+© 2025 Brock Frary. All rights reserved.
