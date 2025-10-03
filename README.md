@@ -1,2 +1,3 @@
-# AI-Project-tech-jargon-buster-dev-timeline
-Screenshots over the development cycle - successes and failures.
+# Tech Jargon Buster Development Timeline
+- Screenshots over the development cycle - successes and failures.
+
