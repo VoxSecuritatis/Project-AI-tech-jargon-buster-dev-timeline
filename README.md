@@ -4,7 +4,7 @@
 ---
 
 ### Initial attempt 
-<img src="https://imgur.com/RQx6R0D.jpg" height="80%" width="80%" alt="Initial attempt"/> 
+<img src="https://imgur.com/jlgoefR.jpg" height="80%" width="80%" alt="Initial attempt"/>
 
 ---
 
