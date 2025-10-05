@@ -1,7 +1,7 @@
 # <a name="top"></a> Tech Jargon Buster Development Timeline
 - Screenshots over the development cycle - successes and failures.
 
-### Project Page:  [Project Page](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)
+### [Project Page](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)
 ---
 
 ### Initial attempt 
