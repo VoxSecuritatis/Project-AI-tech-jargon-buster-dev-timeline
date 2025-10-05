@@ -70,5 +70,5 @@
 [Back to Top](#top)
 
 --
-📄 License
+
 © 2025 Brock Frary. All rights reserved.
