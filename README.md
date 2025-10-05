@@ -1,4 +1,4 @@
-# Tech Jargon Buster Development Timeline
+# <a name="top"></a> Tech Jargon Buster Development Timeline
 - Screenshots over the development cycle - successes and failures.
 
 ---
@@ -66,6 +66,8 @@
 <img src="https://imgur.com/Zg51aFW.jpg" height="80%" width="80%" alt="Fifteenth attempt"/>
 
 ---
+[Back to Top](#top)
 
+--
 📄 License
 © 2025 Brock Frary. All rights reserved.
