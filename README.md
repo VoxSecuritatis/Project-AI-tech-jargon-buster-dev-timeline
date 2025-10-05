@@ -1,7 +1,7 @@
 # <a name="top"></a> Tech Jargon Buster Development Timeline
 Published:  2025-10-04 | Updated: 2025-10-05<br>
 - Screenshots over the development cycle - successes and failures.
-- Down to the Bottom (to see the final UI: [Down to Bottom](#bottom)
+- Down to the Bottom (to see the final UI): [Down to Bottom](#bottom)
 
 ### [Project Page](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)
 ---
