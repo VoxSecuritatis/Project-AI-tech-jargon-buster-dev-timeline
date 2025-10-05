@@ -1,6 +1,7 @@
 # <a name="top"></a> Tech Jargon Buster Development Timeline
 Published:  2025-10-04 | Updated: 2025-10-05<br>
 - Screenshots over the development cycle - successes and failures.
+- Down to the Bottom (to see the final UI: [Down to Bottom](#bottom)
 
 ### [Project Page](https://github.com/VoxSecuritatis/Project-AI-tech-jargon-buster)
 ---
@@ -64,12 +65,13 @@ Published:  2025-10-04 | Updated: 2025-10-05<br>
 <img src="https://imgur.com/2G51jLf.jpg" height="80%" width="80%" alt="Fourteenth attempt"/>
 
 ---
-### Fifteenth and final attempt - Successfully cloud deployed
+### <a name="bottom">Fifteenth and final attempt - Successfully cloud deployed
 <img src="https://imgur.com/Zg51aFW.jpg" height="80%" width="80%" alt="Fifteenth attempt"/>
 
 ---
+
 [Back to Top](#top)
 
---
+---
 
 © 2025 Brock Frary. All rights reserved.
